@@ -1,0 +1,8 @@
+{
+  "name": "كريما فيرا | أسماك وفواكه بحر مغربية",
+  "description": "الموقع الرسمي لأسماك وفواكه البحر المغربية الطازجة من المحيط الأطلسي - جودة ممتازة، طراوة يومية وطلب مباشر عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
